@@ -11,10 +11,10 @@ All subfolders are categorized into Units and include both Python files and Jupy
    git clone https://github.com/s-chorm/python-ai-coursework.git
 
 2. Install the dependencies:
-   ```pip install -r requirements.txt```
+   ```pip install -r ../requirements.txt```
 
    Alternative if ```pip``` is not recognized on your system:
-   ```python -m pip install -r requirements.txt```
+   ```python -m pip install -r ../requirements.txt```
 
 3. Run the Streamlit app (replace app_title with file you want to run):
    ```streamlit run app_title.py```
