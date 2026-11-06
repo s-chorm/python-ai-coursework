@@ -4,7 +4,7 @@ Contains all AI course labs and projects that have been completed in Python.
 # Information
 All subfolders are categorized into Units and include both Python files and Jupyter Notebooks. The "requirements.txt" lists all libraries required to run some Python files.
 
-## How to Run Locally (DOESN'T WORK YET; CURRENTLY BEING UPDATED)
+## How to Run Locally (DOESN'T WORK YET; CURRENTLY BEING FIXED)
 
 1. Clone the repository:
    ```bash
