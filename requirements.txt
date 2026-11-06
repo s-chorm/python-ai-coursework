@@ -1,2 +1,10 @@
 streamlit
 openai
+pandas
+base64
+io
+PIL
+os
+json
+fitz
+IPython
