@@ -8,7 +8,7 @@ All subfolders are categorized into Units and include both Python files and Jupy
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/s-chorm/python-ai-coursework.git](https://github.com/s-chorm/python-ai-coursework.git)```
+   git clone [https://github.com/s-chorm/python-ai-coursework.git](https://github.com/s-chorm/python-ai-coursework.git)
 
 2. Install the dependencies:
    ```pip install -r requirements.txt```
